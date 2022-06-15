@@ -5,4 +5,4 @@ Primeiramente, será necessário baixar o código "BuscaBinCEP.c" e o arquivo "c
 Com o executavel gerado, você precisa digitar ainda no terminal "./[Nome do executavel] [CEP que deseja buscar]"
 
 ## Observação
-O arquivo "cep_ordenado.dat" precisa estar no mesmo diretório que o executavel da Busca Binária.
+O arquivo "cep_ordenado.dat" precisa estar na mesma pasta que o executável da Busca Binária.
